@@ -1,0 +1,17 @@
+{
+  "name": "stripe-payment-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@codesled/stripe-payments": "^1.0.2",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "open": "^10.1.0"
+  }
+}
